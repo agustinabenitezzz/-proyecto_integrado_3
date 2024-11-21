@@ -8,8 +8,8 @@ Formato de pre-examen final
 * El entrenamiento físico es requerido en esta fase y para ello se brinda unas presentaciones gráficas con visión completa de rutinas ejercicios cardiológicos.
 * Acompaña al plan, un sistema de control en los ejercicios físicos rutinarios a desarrollar, _verificando pulsaciones_.
 ### Se adjunta el plan  con calendario
-[[Plan Dieta Antiinflamatoria](https://docs.google.com/document/d/1hQbm6kegODytNjDcpWd_pYqRmb7uuP1CzIX8rjbY8S4/edit?usp=sharing)
+[[Plan Dieta Antiinflamatoria](https://docs.google.com/document/d/1hQbm6kegODytNjDcpWd_pYqRmb7uuP1CzIX8rjbY8S4/edit?usp=sharing)]
 ### Se adjunta una muestra de como llevar el control de pulsaciones
-[[Control Cardio](https://docs.google.com/document/d/1hQbm6kegODytNjDcpWd_pYqRmb7uuP1CzIX8rjbY8S4/edit?usp=sharing)
+[[Control Cardio](https://docs.google.com/document/d/1hQbm6kegODytNjDcpWd_pYqRmb7uuP1CzIX8rjbY8S4/edit?usp=sharing)]
 ### Presentaciones sobre rutinas y ejercicios para mantener el físico ante cambios alimenticios.
-[[Presentaciones](https://app.presentations.ai/view/uDdnwd)
+[[Presentaciones](https://app.presentations.ai/view/uDdnwd)]
